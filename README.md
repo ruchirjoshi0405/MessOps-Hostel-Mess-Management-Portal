@@ -1,4 +1,4 @@
-# MessOps — MNNIT Campus Dining Platform
+# MessOps — Hostel Mess Management Platform
 
 A microservices-based dining management platform for college hostels, built on 3 principles — **minimise food waste, ensure financial transparency**, and **enable democratic campus feedback**.
 
