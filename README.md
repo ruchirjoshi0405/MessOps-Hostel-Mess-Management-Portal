@@ -73,3 +73,9 @@ React + Redux Toolkit + `redux-persist`, React Router v7. `ProtectedRoute` gates
 | Media | Cloudinary, Multer |
 | Inter-service | gRPC + Protocol Buffers (user↔mess headcount), REST (all other inter-service calls) |
 | Rate limiting | Redis (ioredis), sliding window log algorithm |
+
+
+
+## Author
+
+[ruchirjoshi0405](https://github.com/ruchirjoshi0405)
